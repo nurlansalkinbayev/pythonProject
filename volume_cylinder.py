@@ -9,13 +9,13 @@ height = float(input('Введите значение высоты в см: '))
 volume = round(PI * radius ** 2 * height, 2)
 print(f'Объем цилиндра равен {volume} куб.см.')
 
-
+Цикл while
 # print('My name is: ')
 # i = 0
 # while i < 6:
 #     print('Jimmy five times (' + str(i) + ')')
 #     i = i + 1
-
+Использование try.. except..
 # def spam (divideBy):
 #     try:
 #         return 42/divideBy
